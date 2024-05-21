@@ -1,12 +1,19 @@
 <b><font size=5 face="Arial">Publications</font></b>
 
 ---
-1. <font face="Cambria">Kaiyu Huang, Peng Li, Junpeng Liu, Maosong Sun, Yang Liu. Learn and Consolidate: Continual Adaptation for Zero-Shot and Multilingual Neural Machine Translation. In <i>Proceedings of EMNLP 2023</i>.</font>
-1. <font face="Cambria">Junpeng Liu, Kaiyu Huang, Hao Yu, Jiuyi Li, Jinsong Su, Degen Huang. Continual Learning for Multilingual Neural Machine Translation via Dual Importance-based Model Division. In <i>Proceedings of EMNLP 2023</i>.</font>
-1. <font face="Cambria">Anqi Zhao, Kaiyu Huang, Hao Yu, Degen Huang. DUTNLP System for the WMT2023 Discourse-Level Literary Translation. In <i>Proceedings of WMT 2023</i>.</font>
-1. <font face="Cambria">Fengran Mo, Jian-Yun Nie, Kaiyu Huang, Kelong Mao, Yutao Zhu, Peng Li, Yang Liu. Learning to Relate to Previous Turns in Conversational Search. In <i>Proceedings of SIGKDD 2023</i>.</font>
-1. <font face="Cambria">Kaiyu Huang, Peng Li, Jin Ma, Ting Yao, Yang Liu. Knowledge Transfer in Incremental Learning for Multilingual Neural Machine Translation. In <i>Proceedings of ACL 2023</i>. (<font color='red'>ACL 2023 Outstanding Paper Award)</font></font>
-1. <font face="Cambria">Fengran Mo, Kelong Mao, Yutao Zhu, Yihong Wu, Kaiyu Huang, Jian-Yun Nie. ConvGQR: Generative Query Reformulation for Conversational Search. In <i>Proceedings of ACL 2023</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. **A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**. <i>arXiv:2405.10936</i>. </font>
+1. <font face="Cambria">Yulong Mao, Kaiyu Huang, Changhao Guan, Ganglin Bao, Fengran Mo, Jinan Xu. **DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution**. In <i>Proceedings of ACL 2024</i>.</font>
+1. <font face="Cambria">Fengran Mo, Chen Qu, Kelong Mao, Tianyu Zhu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. **History-Aware Conversational Dense Retrieval**. In <i>Findings of ACL 2024</i>.</font>
+1. <font face="Cambria">Fengran Mo, Bole Yi, Kelong Mao, Chen Qu, Kaiyu Huang, Jian-Yun Nie. **ConvSDG: Session Data Generation for Conversational Search**. In <i>Companion Proceedings of the ACM on Web Conference 2024</i>.</font>
+1. <font face="Cambria">Hao Yu, Kaiyu Huang, Anqi Zhao, Junpeng Liu, Degen Huang, Wenpei Luo, Kaiyu Huang. **Context-Aware Non-Autoregressive Document-Level Translation with Sentence-Aligned Connectionist Temporal Classification**. In <i>Proceedings of  LREC-COLING 2024</i>.</font>
+1. <font face="Cambria">Mieradilijiang Maimaiti, Yuanhang Zheng, Ji Zhang, Fei Huang, Yue Zhang, Wenpei Luo, Kaiyu Huang. **Improving Cross-lingual Representation for Semantic Retrieval with Code-switching**. <i>arXiv:2403.01364</i>.</font>
+1. <font face="Cambria">Fengran Mo, Chen Qu, Kelong Mao, Tianyu Zhu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. **History-Aware Conversational Dense Retrieval**. <i>arXiv:2401.16659</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Peng Li, Junpeng Liu, Maosong Sun, Yang Liu. **Learn and Consolidate: Continual Adaptation for Zero-Shot and Multilingual Neural Machine Translation**. In <i>Proceedings of EMNLP 2023</i>.</font>
+1. <font face="Cambria">Junpeng Liu, Kaiyu Huang, Hao Yu, Jiuyi Li, Jinsong Su, Degen Huang. **Continual Learning for Multilingual Neural Machine Translation via Dual Importance-based Model Division**. In <i>Proceedings of EMNLP 2023</i>.</font>
+1. <font face="Cambria">Anqi Zhao, Kaiyu Huang, Hao Yu, Degen Huang. **DUTNLP System for the WMT2023 Discourse-Level Literary Translation**. In <i>Proceedings of WMT 2023</i>.</font>
+1. <font face="Cambria">Fengran Mo, Jian-Yun Nie, Kaiyu Huang, Kelong Mao, Yutao Zhu, Peng Li, Yang Liu. **Learning to Relate to Previous Turns in Conversational Search**. In <i>Proceedings of SIGKDD 2023</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Peng Li, Jin Ma, Ting Yao, Yang Liu. **Knowledge Transfer in Incremental Learning for Multilingual Neural Machine Translation**. In <i>Proceedings of ACL 2023</i>. (<font color='red'>ACL 2023 Outstanding Paper Award)</font></font>
+1. <font face="Cambria">Fengran Mo, Kelong Mao, Yutao Zhu, Yihong Wu, Kaiyu Huang, Jian-Yun Nie. **ConvGQR: Generative Query Reformulation for Conversational Search**. In <i>Proceedings of ACL 2023</i>.</font>
 1. <font face="Cambria">Kaiyu Huang, Peng Li, Jin Ma, Yang Liu. <b>Entropy-Based Vocabulary Substitution for Incremental Learning in Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.</font>
 1. <font face="Cambria">Junpeng Liu, Kaiyu Huang, Jiuyi Li, Huan Liu, Jinsong Su, Degen Huang. <b>Adaptive Token-level Cross-lingual Feature Mixing for Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.</font>
 1. <font face="Cambria">Hao Yu, Kaiyu Huang, Yu Wang, Degen Huang. <b>Lexicon‐Augmented Cross‐Domain Chinese Word Segmentation with Graph Convolutional Network</b>. <i>Chinese Journal of Electronics</i>.</font>
