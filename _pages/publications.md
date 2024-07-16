@@ -19,9 +19,8 @@ author_profile: true
 * Yulong Mao, Kaiyu Huang, Changhao Guan, Ganglin Bao, Fengran Mo, Jinan Xu. **DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution**. In <i>Proceedings of ACL 2024</i>.
 * Fengran Mo, Chen Qu, Kelong Mao, Tianyu Zhu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. **History-Aware Conversational Dense Retrieval**. In <i>Findings of ACL 2024</i>.
 * Fengran Mo, Bole Yi, Kelong Mao, Chen Qu, Kaiyu Huang, Jian-Yun Nie. **ConvSDG: Session Data Generation for Conversational Search**. In <i>Companion Proceedings of the ACM on Web Conference 2024</i>.
-* Hao Yu, Kaiyu Huang, Anqi Zhao, Junpeng Liu, Degen Huang, Wenpei Luo, Kaiyu Huang. **Context-Aware Non-Autoregressive Document-Level Translation with Sentence-Aligned Connectionist Temporal Classification**. In <i>Proceedings of  LREC-COLING 2024</i>.
+* Hao Yu, Kaiyu Huang, Anqi Zhao, Junpeng Liu, Degen Huang, Wenpei Luo, Kaiyu Huang. **Context-Aware Non-Autoregressive Document-Level Translation with Sentence-Aligned Connectionist Temporal Classification**. In <i>Proceedings of LREC-COLING 2024</i>.
 * Mieradilijiang Maimaiti, Yuanhang Zheng, Ji Zhang, Fei Huang, Yue Zhang, Wenpei Luo, Kaiyu Huang. **Improving Cross-lingual Representation for Semantic Retrieval with Code-switching**. <i>arXiv:2403.01364</i>.
-* Fengran Mo, Chen Qu, Kelong Mao, Tianyu Zhu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. **History-Aware Conversational Dense Retrieval**. <i>arXiv:2401.16659</i>.
 * Kaiyu Huang, Peng Li, Junpeng Liu, Maosong Sun, Yang Liu. **Learn and Consolidate: Continual Adaptation for Zero-Shot and Multilingual Neural Machine Translation**. In <i>Proceedings of EMNLP 2023</i>.
 * Junpeng Liu, Kaiyu Huang, Hao Yu, Jiuyi Li, Jinsong Su, Degen Huang. **Continual Learning for Multilingual Neural Machine Translation via Dual Importance-based Model Division**. In <i>Proceedings of EMNLP 2023</i>.
 * Anqi Zhao, Kaiyu Huang, Hao Yu, Degen Huang. **DUTNLP System for the WMT2023 Discourse-Level Literary Translation**. In <i>Proceedings of WMT 2023</i>.
