@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Kaiyu Huang"
 title_separator          : "-"
 name                     : &name "Kaiyu Huang"
 description              : &description "personal description"
