@@ -13,7 +13,7 @@ Selected Publication
 ===
 * <b>Kaiyu Huang</b>, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers. <i>arXiv:2405.10936</i>.
 * Yulong Mao\*, <b>Kaiyu Huang\*</b>, Changhao Guan, Ganglin Bao, Fengran Mo, Jinan Xu. DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution. In <i>Proceedings of ACL 2024</i>.
-* Hao Yu, <b>Kaiyu Huang</b>, Anqi Zhao, Junpeng Liu, Degen Huang, Wenpei Luo, Kaiyu Huang. Context-Aware Non-Autoregressive Document-Level Translation with Sentence-Aligned Connectionist Temporal Classification. In <i>Proceedings of LREC-COLING 2024</i>.
+* Hao Yu, <b>Kaiyu Huang\*</b>, Anqi Zhao, Junpeng Liu, Degen Huang. Context-Aware Non-Autoregressive Document-Level Translation with Sentence-Aligned Connectionist Temporal Classification. In <i>Proceedings of LREC-COLING 2024</i>.
 * <b>Kaiyu Huang</b>, Peng Li, Jin Ma, Ting Yao, Yang Liu. Knowledge Transfer in Incremental Learning for Multilingual Neural Machine Translation. In <i>Proceedings of ACL 2023</i>. (<font color='red'>ACL 2023 Outstanding Paper Award)</font>
 * Fengran Mo, Kelong Mao, Yutao Zhu, Yihong Wu, <b>Kaiyu Huang\*</b>, Jian-Yun Nie\*. ConvGQR: Generative Query Reformulation for Conversational Search. In <i>Proceedings of ACL 2023</i>.
 * <b>Kaiyu Huang</b>, Peng Li, Junpeng Liu, Maosong Sun, Yang Liu. Learn and Consolidate: Continual Adaptation for Zero-Shot and Multilingual Neural Machine Translation. In <i>Proceedings of EMNLP 2023</i>.
