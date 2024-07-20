@@ -22,7 +22,8 @@ In the year of 2024
 * Fengran Mo, Bole Yi, Kelong Mao, Chen Qu, Kaiyu Huang, Jian-Yun Nie. **ConvSDG: Session Data Generation for Conversational Search**. In <i>Companion Proceedings of the ACM on Web Conference 2024</i>.
 * Hao Yu, Kaiyu Huang, Anqi Zhao, Junpeng Liu, Degen Huang. **Context-Aware Non-Autoregressive Document-Level Translation with Sentence-Aligned Connectionist Temporal Classification**. In <i>Proceedings of LREC-COLING 2024</i>.
 * Mieradilijiang Maimaiti, Yuanhang Zheng, Ji Zhang, Fei Huang, Yue Zhang, Wenpei Luo, Kaiyu Huang. **Improving Cross-lingual Representation for Semantic Retrieval with Code-switching**. <i>arXiv:2403.01364</i>.
-* In the year of 2023
+
+In the year of 2023
 ===
 * Kaiyu Huang, Peng Li, Junpeng Liu, Maosong Sun, Yang Liu. **Learn and Consolidate: Continual Adaptation for Zero-Shot and Multilingual Neural Machine Translation**. In <i>Proceedings of EMNLP 2023</i>.
 * Junpeng Liu, Kaiyu Huang, Hao Yu, Jiuyi Li, Jinsong Su, Degen Huang. **Continual Learning for Multilingual Neural Machine Translation via Dual Importance-based Model Division**. In <i>Proceedings of EMNLP 2023</i>.
@@ -30,7 +31,8 @@ In the year of 2024
 * Fengran Mo, Jian-Yun Nie, Kaiyu Huang, Kelong Mao, Yutao Zhu, Peng Li, Yang Liu. **Learning to Relate to Previous Turns in Conversational Search**. In <i>Proceedings of SIGKDD 2023</i>.
 * Kaiyu Huang, Peng Li, Jin Ma, Ting Yao, Yang Liu. **Knowledge Transfer in Incremental Learning for Multilingual Neural Machine Translation**. In <i>Proceedings of ACL 2023</i>. (<font color='red'>ACL 2023 Outstanding Paper Award)</font>
 * Fengran Mo, Kelong Mao, Yutao Zhu, Yihong Wu, Kaiyu Huang, Jian-Yun Nie. **ConvGQR: Generative Query Reformulation for Conversational Search**. In <i>Proceedings of ACL 2023</i>.
-* In the year of 2022 and before
+
+In the year of 2022 and before
 ===
 * Kaiyu Huang, Peng Li, Jin Ma, Yang Liu. <b>Entropy-Based Vocabulary Substitution for Incremental Learning in Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.
 * Junpeng Liu, Kaiyu Huang, Jiuyi Li, Huan Liu, Jinsong Su, Degen Huang. <b>Adaptive Token-level Cross-lingual Feature Mixing for Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.
