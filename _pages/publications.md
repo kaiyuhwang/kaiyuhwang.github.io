@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}-->
+
 In the year of 2024
 ===
 * Fengran Mo, Chen Qu, Kelong Mao, Yihong Wu, Zhan Su, Kaiyu Huang and Jian-Yun Nie. **Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search**. In <i>Proceedings of CIKM 2024</i>.
