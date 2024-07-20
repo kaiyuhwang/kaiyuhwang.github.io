@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}-->
 In the year of 2024
 ===
+* Fengran Mo, Chen Qu, Kelong Mao, Yihong Wu, Zhan Su, Kaiyu Huang and Jian-Yun Nie. **Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search**. In <i>Proceedings of CIKM 2024</i>.
+* Fengran Mo, Longxiang Zhao, Kaiyu Huang, Yue Dong, Degen Huang and Jian-Yun Nie. **How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval**. In <i>Proceedings of CIKM 2024</i>.
 * Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. **A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**. <i>arXiv:2405.10936</i>. 
 * Yulong Mao, Kaiyu Huang, Changhao Guan, Ganglin Bao, Fengran Mo, Jinan Xu. **DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution**. In <i>Proceedings of ACL 2024</i>.
 * Fengran Mo, Chen Qu, Kelong Mao, Tianyu Zhu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. **History-Aware Conversational Dense Retrieval**. In <i>Findings of ACL 2024</i>.
